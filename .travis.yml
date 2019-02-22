@@ -7,4 +7,3 @@ matrix:
 
 script:
   - cargo test
-  - rustdoc --test README.md -L target
