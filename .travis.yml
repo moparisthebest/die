@@ -1,0 +1,10 @@
+language: rust
+matrix:
+  include:
+    - rust: stable
+    - rust: beta
+    - rust: nightly
+
+script:
+  - cargo test
+  - rustdoc --test README.md -L target
