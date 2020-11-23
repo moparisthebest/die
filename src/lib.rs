@@ -173,7 +173,6 @@ impl<T> Die<T> for Option<T> {
 }
 
 pub trait PrintExit {
-    #[inline]
     fn print_exit(&self) -> !;
 }
 
