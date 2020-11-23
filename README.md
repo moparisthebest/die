@@ -1,6 +1,6 @@
 # die
 
-[![Build Status](https://travis-ci.com/moparisthebest/die.svg?branch=master)](https://travis-ci.com/moparisthebest/die)
+[![Build Status](https://ci.moparisthe.best/job/moparisthebest/job/die/job/master/badge/icon%3Fstyle=plastic)](https://ci.moparisthe.best/job/moparisthebest/job/die/job/master/)
 [![Latest Version](https://img.shields.io/crates/v/die.svg)](https://crates.io/crates/die)
 [![Documentation](https://docs.rs/die/badge.svg)](https://docs.rs/die)
 
